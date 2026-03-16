@@ -1,24 +1,9 @@
+# Welcome!
+Do you want to talk to your far-away classmate without making a peep in class? Well, this is the tool for you!
+## How To Use
+Simply download (or copy) the code in `main.ts`, and paste it onto your code editor for your micro:bit.
+## How It Works
+Using the `radio` feature on micro:bits, you can create some great stuff. This is just one of them. Pressing the A button types a dot, while pressing the B button types a dash. When you're ready, touch the golden logo to send your message to your friend!
+*Note: The message you send is **NOT** private. If another person has their micro:bit on, and you send a message, they **WILL** receive it, so think twice before sending a message!
 
-> Open this page at [https://auserdotexe.github.io/microbit-comms/](https://auserdotexe.github.io/microbit-comms/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/auserdotexe/microbit-comms** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/auserdotexe/microbit-comms** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+More to come soon!
